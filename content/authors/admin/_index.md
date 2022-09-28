@@ -77,11 +77,11 @@ email: ''
 highlight_name: true
 ---
 
-Hello there! This is Willis' personal website. Recently I have found that it is interesting to make such a website. I would like to share any interesting things that I have thought or experienced in here.
+Hello there! This is Willis' personal website. Recently I have found that it is interesting to make such a website. I would like to share some interesting things that I have thought or experienced in here.
 
-Now I am affiliated to Gifu University as a researcher. I have taken part in researches related to remote sensing, geographic information system, hydrology and deep learning. Please check my ORCID or ResearchGate page for more detailed academic information from the links in the left.
+Now I am affiliated to Gifu University as a researcher. I have taken part in researches related to remote sensing, geographic information system, hydrology and deep learning. Please check my ORCID or ResearchGate page for more detailed academic information from the links in this page.
 
-I am also taking pictures and making video clips as part of my hobbies. You can see my works from my Bilibili page and public account page of WeChat from the links in the left. Although I am not a professional programmer and still learning about programming, I love writing different kinds of interesting programs using Python. If you have any good idea about programming, feel free to share with me.
+I am also taking pictures and making video clips as a part of my hobbies. You can see my works from my Bilibili page and public account page of WeChat from the links in this page. Although I am not a professional programmer and still learning about programming, I love writing different kinds of interesting programs using Python. If you have any good idea about programming, feel free to share with me.
 
 Besides, I like challenging works in different fields. I would like to share my challenging experiences in this website later.
 
