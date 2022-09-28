@@ -1,39 +1,40 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: WEILISI 威力斯 (Willis)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Gifu University
+    url: https://www.gifu-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include remote sensing, geographic information system (GIS), hydrology and deep learning.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Remote Sensing
+  - GIS
+  - Hydrology
+  - Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Engineering
+      institution: Gifu University
+      year: 2022
+    - course: MS in Agricultural and Environmental Science
+      institution: Gifu University
+      year: 2015
+    - course: BS in Geographical Science
+      institution: Inner Mongolia Normal University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +44,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: orcid
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/0000-0002-0683-5303
+  - icon: researchgate # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Weilisi-Weilisi
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/weils302
+  - icon: bilibili
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://space.bilibili.com/1833730
+  - icon: weixin
+    icon_pack: fab
+    link: http://pnglog.com/i/2022/09/28/6333323fe8779.jpg
+  - icon: weixin
+    icon_pack: fab
+    link: http://pnglog.com/i/2022/09/28/6333324044f53.jpg
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -70,8 +77,12 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello there! This is Willis' personal website. Recently I have found that it is interesting to make such a website. I would like to share any interesting things that I have thought or experienced in here.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Now I am affiliated to Gifu University as a researcher. I have taken part in researches related to remote sensing, geographic information system, hydrology and deep learning. Please check my ORCID or ResearchGate page for more detailed academic information from the links in the left.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am also taking pictures and making video clips as part of my hobbies. You can see my works from my Bilibili page and public account page of WeChat from the links in the left. Although I am not a professional programmer and still learning about programming, I love writing different kinds of interesting programs using Python. If you have any good idea about programming, feel free to share with me.
+
+Besides, I like challenging works in different fields. I would like to share my challenging experiences in this website later.
+
+<!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
