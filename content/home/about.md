@@ -14,6 +14,13 @@ weight: 20
 
 title: Introduction
 
+design:
+  background:
+    image: Photo_6553610_DJI_10_jpg_7793620_0_202172351434_photo_original.JPG
+    image_darken: 0.5
+    image_parallax: true
+    text_color_light: true
+
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
