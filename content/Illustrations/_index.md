@@ -1,6 +1,6 @@
 ---
 title: Illustrations
-cms_exclude: true
+cms_exclude: false
 
 reading_time: false  
 # Show estimated reading time?
