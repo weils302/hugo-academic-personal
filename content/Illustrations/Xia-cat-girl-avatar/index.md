@@ -1,9 +1,9 @@
 ---
 title: Avatar of a Girl with Cat Ears
-subtitle: 
+subtitle: My first illustration made on Procreate by following a tutorial.
 
 # Summary for listings and search engines
-summary: My first Procreate illustration made by following a tutorial.
+summary: My first illustration made on Procreate by following a tutorial.
 
 # Link this post with a project
 projects: []
