@@ -18,10 +18,14 @@ main:
   - name: Posts
     identifier: post
     weight: 20
+  - name: Tech Blogs
+    parent: post
+    url: 'techblog/'
+    weight: 21
   - name: Illustrations
     parent: post
     url: 'illustrations/'
-    weight: 21
+    weight: 22
  # - name: Projects
   #  url: '#projects'
   #  weight: 30
