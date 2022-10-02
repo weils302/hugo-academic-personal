@@ -24,9 +24,9 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   caption: 'Image credit: Ⓒ WEILISI'
-  focal_point: ''
+  focal_point: 'smart'
   placement: 2
-  preview_only: false
+  preview_only: true
 
 authors:
   - WEILISI
@@ -40,4 +40,5 @@ categories:
 ---
 When I have downloaded Procreate, I have found that it was hard to understand the way of using it. I have tried to draw something anyway, but it looks not so good. 
 Finally, there is a [tutorial video](https://www.bilibili.com/video/BV1zE411C7Py?share_source=copy_web&vd_source=1920fa7f9c47f2879b82846fb2c6f3ba)
-that made me decided to try an illustration by following it. This is the my final production.
+that made me decided to try an illustration by following it. This is my final production.
+![image](featured.jpg "Image credit: Ⓒ WEILISI")

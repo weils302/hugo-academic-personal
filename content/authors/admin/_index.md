@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello there! This is Willis' personal website. Recently I have found that it is interesting to make such a website. I would like to share some interesting things that I have thought or experienced in here.
+Hello there! This is Willis' personal website. Recently I have found that it is cool to make such a website. I would like to share some interesting things that I have thought or experienced in here.
 
 Now I am affiliated to Gifu University as a researcher. I have taken part in researches related to remote sensing, geographic information system, hydrology and deep learning. Please check my ORCID or ResearchGate page for more detailed academic information from the links in this page.
 
