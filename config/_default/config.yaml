@@ -10,10 +10,21 @@ baseURL: 'https://weils302.com/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
-hasCJKLanguage: false
+defaultContentLanguage: ja
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
+languages:
+  en:
+    languageName: English
+    weight: 1
+  zh:
+    languageName: 简体中文
+    weight: 2
+  ja:
+    languageName: 日本語
+    weight: 3
 
 ############################
 ## MODULES

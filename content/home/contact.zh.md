@@ -26,19 +26,19 @@ content:
 
   # Contact details (edit or remove options as required)
   address:
-    street: Gifu University, Yanagido 1-1
-    city: Gifu
-    region: Gifu Prefecture
+    street: 岐阜大学, 柳户1-1
+    city: 岐阜市
+    region: 岐阜县
     postcode: '〒501-1193'
-    country: Japan
+    country: 日本
   coordinates:
     latitude: 35.46475
     longitude: 136.73949
   contact_links:
     - icon: weixin
       icon_pack: fab
-      name: DM Me
-      link: 'http://pnglog.com/i/2022/09/28/6333323fe8779.jpg'
+      name: 私信
+      link: 'https://pnglog.com/i/2022/09/28/6333323fe8779.jpg'
     #- icon: video
     #  icon_pack: fas
     #  name: Zoom Me

@@ -1,5 +1,6 @@
 ---
 title: Tech Blogs
+translationKey: "TechBlogs"
 cms_exclude: false
 
 reading_time: false  

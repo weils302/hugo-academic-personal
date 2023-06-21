@@ -1,5 +1,6 @@
 ---
-title: Illustrations
+title: 插画作品
+translationKey: "Illustrations"
 cms_exclude: false
 
 reading_time: false  

@@ -6,34 +6,34 @@ title: WEILISI 威力斯 (Willis)
 superuser: true
 
 # Role/position/tagline
-role: Researcher, Assistant Professor
+role: 研究员, 助教
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Gifu University
+  - name: 岐阜大学
     url: https://www.gifu-u.ac.jp/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include remote sensing, geographic information system (GIS), hydrology and deep learning.
+bio: 我的研究兴趣包括遥感、地理信息系统（GIS）、水文学和深度学习。
 
 # Interests to show in About widget
 interests:
-  - Remote Sensing
+  - 遥感
   - GIS
-  - Hydrology
-  - Deep Learning
+  - 水文学
+  - 深度学习
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Engineering
-      institution: Gifu University
+    - course: 博士（工学）
+      institution: 岐阜大学
       year: 2022
-    - course: MS in Agricultural and Environmental Science
-      institution: Gifu University
+    - course: 硕士（应用生物科学）
+      institution: 岐阜大学
       year: 2015
-    - course: BS in Geographical Science
-      institution: Inner Mongolia Normal University
+    - course: 学士（地理科学）
+      institution: 内蒙古师范大学
       year: 2012
 
 # Social/Academic Networking
@@ -75,14 +75,14 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+translationKey: homepage_introduction
 ---
 
-Hello there! This is Willis' personal website. Recently I have found that it is cool to make such a website. I would like to share some interesting things that I have thought or experienced in here.
+Hi！这里是威力斯的个人主页。最近觉得做这么一个网页挺有意思，于是便有了你现在看到的这些内容。我打算在这里分享我觉得有趣的想法或者事情。
 
-Now I am affiliated to Gifu University as a researcher and assistant professor. I have taken part in researches related to remote sensing, geographic information system, hydrology and deep learning. Please check my ORCID or ResearchGate page for more detailed academic information from the links in this page.
+我现在在岐阜大学做研究员和助教的工作。主要研究方向是遥感，地理信息系统，水文学以及深度学习。如果有兴趣，可以点击左侧ORCID或者ResearchGate图标来了解更多关于学术方面的信息。
 
-I am also taking pictures and making video clips as a part of my hobbies. You can see my works from my Bilibili page and public account page of WeChat from the links in this page. Although I am not a professional programmer and still learning about programming, I love writing different kinds of interesting programs using Python. If you have any good idea about programming, feel free to share with me.
-
-Besides, I like challenging works in different fields. I would like to share my challenging experiences in this website later.
+作为兴趣爱好我喜欢摄影和视频剪辑。欢迎从左侧图标访问我的B站主页以及微信公众号。此外我也喜欢试着用Python写一些有趣的程序（虽然还是个菜鸟），如果你有什么好的想法，欢迎与我分享。 
 
 <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
