@@ -79,6 +79,8 @@ highlight_name: true
 translationKey: homepage_introduction
 ---
 
+（本网站有三种语言版本，可在菜单栏地球图标处进行选择；This website is available in three language versions, which can be selected from the globe icon on the menu bar；このウェブサイトは3つの言語バージョンがあり、メニューバーの地球アイコンから選択できます。）
+
 Hi！这里是威力斯的个人主页。最近觉得做这么一个网页挺有意思，于是便有了你现在看到的这些内容。我打算在这里分享我觉得有趣的想法或者事情。
 
 我现在在岐阜大学做研究员和助教的工作。主要研究方向是遥感，地理信息系统，水文学以及深度学习。如果有兴趣，可以点击左侧ORCID或者ResearchGate图标来了解更多关于学术方面的信息。

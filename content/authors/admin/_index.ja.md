@@ -78,6 +78,7 @@ highlight_name: true
 
 translationKey: homepage_introduction
 ---
+（本网站有三种语言版本，可在菜单栏地球图标处进行选择；This website is available in three language versions, which can be selected from the globe icon on the menu bar；このウェブサイトは3つの言語バージョンがあり、メニューバーの地球アイコンから選択できます。）
 
 こんにちは！ここはウェイリスの個人ウェブサイトです。最近、このようなウェブサイトを作ることはとても面白いと感じ、だからこそ、今見ているこれらのコンテンツが生まれました。ここでは、私が面白いと思った考え方や出来事を共有するつもりです。
 

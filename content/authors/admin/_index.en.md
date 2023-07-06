@@ -78,6 +78,7 @@ highlight_name: true
 
 translationKey: homepage_introduction
 ---
+（本网站有三种语言版本，可在菜单栏地球图标处进行选择；This website is available in three language versions, which can be selected from the globe icon on the menu bar；このウェブサイトは3つの言語バージョンがあり、メニューバーの地球アイコンから選択できます。）
 
 Hello there! This is Willis' personal website. Recently I have found that it is cool to make such a website. I would like to share some interesting things that I have thought or experienced in here.
 
