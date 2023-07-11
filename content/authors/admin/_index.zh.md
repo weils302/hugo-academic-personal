@@ -79,9 +79,9 @@ highlight_name: true
 translationKey: homepage_introduction
 ---
 
-<p style="font-size: 12px; line-height: 1;"><i>(本网站有三种语言版本，可在菜单栏地球图标处进行选择)</i></p>
-<p style="font-size: 12px; line-height: 1;"><i>(This website is available in three language versions, which can be selected from the globe icon on the menu bar)</i></p>
-<p style="font-size: 12px; line-height: 1;"><i>(このウェブサイトは3つの言語バージョンがあり、メニューバーの地球アイコンから選択できます。)</i></p>
+<p style="font-size: 12px; line-height: 1;"><i>(本网站及其内含博文均有三种语言版本，可在菜单栏地球图标处进行选择)</i></p>
+<p style="font-size: 12px; line-height: 1;"><i>(This website and all the blog contents in it are available in three language versions, which can be selected from the globe icon on the menu bar)</i></p>
+<p style="font-size: 12px; line-height: 1;"><i>(このウェブサイト及びその中のすべてのブログコンテンツは3つの言語バージョンがあり、メニューバーの地球アイコンから選択できます。)</i></p>
 
 Hi！这里是威力斯的个人主页。最近觉得做这么一个网页挺有意思，于是便有了你现在看到的这些内容。我打算在这里分享我觉得有趣的想法或者事情。
 
