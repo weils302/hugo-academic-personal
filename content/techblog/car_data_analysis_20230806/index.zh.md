@@ -206,7 +206,7 @@ import pandas as pd
 
 df = pd.read_csv('data.csv', encoding='utf-8')
 
-# 替换 DataFrame 中的非断空格为普通空格
+# Replace non-breaking spaces in the DataFrame with regular spaces
 df = df.replace('\xa0', ' ', regex=True)
 df.to_csv('car_price.csv', encoding='cp932', index=False)
 
@@ -310,10 +310,10 @@ df.to_csv('car_price.csv', encoding='cp932', index=False)
 #### ・所有要素对于价格的影响程度分析
 在分析过我认为对价格影响程度比较大的几个要素后我给所有的要素做了个影响程度的排名。代码如下：
 ```python
-# 设定目标变量
+# Set the target variable
 y = df['base_price']
 
-# 选择要考虑的特征，并排除明确提出的列
+# Select the features to consider and exclude explicitly mentioned columns
 features_to_consider_final = [
     col for col in df.columns.tolist()
     if col not in ['car_name', 'total_price', 'guarantee_type', 'base_price', 'year_group']
@@ -321,32 +321,32 @@ features_to_consider_final = [
 
 X_final = df[features_to_consider_final].copy()
 
-# 找出数据集中的分类特征
+# Identify categorical features in the dataset
 categorical_features_final = [col for col in features_to_consider_final if df[col].dtype == 'object']
 
-# 初始化标准化器和标签编码器
+# Initialize the scaler and label encoder
 scaler = StandardScaler()
 le = LabelEncoder()
 
-# 对 'distance' 和 'model_year' 进行标准化
+# Standardize 'distance' and 'model_year'
 X_final[['distance', 'model_year']] = scaler.fit_transform(X_final[['distance', 'model_year']])
 
-# 使用 LabelEncoder 转换分类特征
+# Convert categorical features using LabelEncoder
 for col in categorical_features_final:
     X_final[col] = le.fit_transform(X_final[col])
 
-# 使用随机森林训练模型
+# Train the model using Random Forest
 random_forest_regressor_final = RandomForestRegressor()
 random_forest_regressor_final.fit(X_final, y)
 
-# 获取并排序特征重要性
+# Get and sort feature importances
 feature_importances_final = random_forest_regressor_final.feature_importances_
 feature_importances_final_df = pd.DataFrame({
     'Feature': features_to_consider_final,
     'Importance': feature_importances_final
 }).sort_values(by='Importance', ascending=False)
 
-# 打印每个特征及其对应的重要性
+# Print each feature and its corresponding importance
 for index, row in feature_importances_final_df.iterrows():
     print(f"{row['Feature']}: {row['Importance']*100:.2f}%")
 
@@ -391,3 +391,8 @@ for index, row in feature_importances_final_df.iterrows():
 
 
 这次做了这么多，对于之后挑选二手车更有信心了。也希望我能早日买到最适合我的那一辆3系吧。
+
+---
+
+<p style="font-size: 16px; line-height: 1;"><i>(参考链接：https://www.carsensor.net/usedcar/search.php?CARC=BM_S011)</i></p>
+<p style="font-size: 16px; line-height: 1;"><i>(本文中使用的数据是2023年8月1日22时30分的数据。链接指向的内容会不时更改。)</i></p>
