@@ -33,7 +33,10 @@ experience:
         Responsibilities include:
         
         * Data Analysing
+        * Substitute for professional courses
         * Academic Paper Writing
+        * Lab software and hardware maintenance
+        * Student guidance
         * Office Works
 design:
   columns: '2'
