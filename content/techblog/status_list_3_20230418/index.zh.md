@@ -3,7 +3,7 @@ title: 基于AI应用的电子在室表制作（三）
 subtitle: 
 
 # Summary for listings and search engines
-summary: 电子在室表的之家制作以及代码测试
+summary: 电子在室表的支架制作以及代码最终部署
 
 # Link this post with a project
 projects: ["电子在室表制作"]
@@ -103,7 +103,7 @@ categories:
 ![实际效果1](IMG_5779.JPG "图片来源: Ⓒ WEILISI")
 <p style="font-size: 16px; line-height: 0.6;"><i>(在门上的效果)</i></p>
 
-![实际效果2](IMG_5782.JPG "图片来源: Ⓒ WEILISI")
+![实际效果2](featured.JPG "图片来源: Ⓒ WEILISI")
 <p style="font-size: 16px; line-height: 0.6;"><i>(整体来讲显示器效果也不错，看着很清楚)</i></p>
 
 为了方便后续版本控制，目前已将相关代码上传至GitHub仓库（目前为私人仓库），打算之后根据情况再决定是否设置为公开。

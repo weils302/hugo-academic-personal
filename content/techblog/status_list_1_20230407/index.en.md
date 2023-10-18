@@ -42,6 +42,7 @@ Since I recently got my own office, I thought about putting a privacy sign on my
 ![Previous Privacy Sign](DocLabStatusList.png "Image Credit: Ⓒ WEILISI")
 <p style="font-size: 16px; line-height: 0.6;"><i>(The sign looks something like this list, with other names removed)</i></p>
 
+
 While searching for privacy sign designs to reference, I found a post[*(url)*](https://www.sakaikoheilab.com/2021/09/lab-door),
 and its whiteboard and illustrations format struck me as quite nice. However, realizing that my drawing skills are not up to par, 
 and the whiteboard only has two sides (which does not fulfill my requirements because I need more than just "in the room" and "out of the room"),
@@ -52,15 +53,20 @@ Eventually, I thought of the recent trend of various AI tools and came up with a
 **\*The whiteboard only has two sides:** An electronic version could be made using a monitor, capable of displaying various statuses.  
 **\*Control of the monitor:** Could be done with a spare Raspberry Pi or small laptop.
 
+<div style="text-align: justify;">
 Given the need for electronic equipment like monitors, considering theft prevention and power cord arrangements,
 I cannot put the device outside the door. If I put it inside the door, people outside can only see it through the glass
 on the door. Since a large part of the glass on the door is obstructed, I would need to place the monitor on the unobstructed
 upper portion.
+</div>
+
 ![Glass on the Door](IMG_2525.JPG "Image Credit: Ⓒ WEILISI")
 <p style="font-size: 16px; line-height: 0.6;"><i>(This is the situation with the glass on the door)</i></p>
 
+<div style="text-align: justify;">
 I can't drill holes in the door, so I plan to fix it in place with magnets and install a bracket. However, if I use magnets,
 a small laptop may be too heavy to hold, so in the end, I plan to use a Raspberry Pi and a small portable monitor.
+</div>
 
 After deciding the hardware, I started thinking about how to display the images and came up with the following options:  
 **1.** Connect a keyboard and mouse to the Raspberry Pi, store the status images in the Raspberry Pi, and select the image to display directly with the keyboard and mouse.    
@@ -68,6 +74,7 @@ After deciding the hardware, I started thinking about how to display the images 
 **3.** Connect the Raspberry Pi wirelessly to the room's local network and install a VNC Server, store the images in the Raspberry Pi, 
 and select the image to display remotely through a VNC Viewer on my working desktop.  
 **4.** Connect the Raspberry Pi wirelessly to the room's local network, store the images on my desktop, and send the image to be displayed to the Raspberry Pi each time.
+
 
 Since there is no suitable space near the door to place a keyboard and mouse, and each time I change the status, I need to remove the monitor,
 it's not very convenient. So, I discarded the first two options. Both options 3 and 4 require a wireless connection and remote control.
@@ -82,3 +89,8 @@ so I asked ChatGPT for help.
 <p style="font-size: 16px; line-height: 0.6;"><i>(This seems like a feasible plan)</i></p>
 
 The next step is to verify the feasibility of ChatGPT's code, and then to create the images.
+
+---
+*Upcoming content:*  
+*[Making an Electronic Office Door Sign Based on AI Application (Part 2)](https://weils302.com/en/techblog/status_list_2_20230415/)*  
+*[Making an Electronic Office Door Sign Based on AI Application (Part 3)](https://weils302.com/en/techblog/status_list_3_20230418/)*

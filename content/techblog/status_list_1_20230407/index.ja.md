@@ -77,3 +77,7 @@ categories:
 
 次のステップは、ChatGPTのコードの実行可能性を確認し、その後、画像を作成することです。
 
+---
+*今後の記事：*  
+*[AIアプリケーションに基づく電子在室表作成 (2)](https://weils302.com/techblog/status_list_2_20230415/)*  
+*[AIアプリケーションに基づく電子在室表作成 (3)](https://weils302.com/techblog/status_list_3_20230418/)*

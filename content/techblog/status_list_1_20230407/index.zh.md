@@ -75,3 +75,8 @@ categories:
 <p style="font-size: 16px; line-height: 0.6;"><i>(看起来是一个可行方案)</i></p>
 
 下一步就是验证ChatGPT代码的可行性，然后进行图片的制作。
+
+---
+*后续内容：*  
+*[基于AI应用的电子在室表制作（二）](https://weils302.com/zh/techblog/status_list_2_20230415/)*  
+*[基于AI应用的电子在室表制作（三）](https://weils302.com/zh/techblog/status_list_3_20230418/)*
