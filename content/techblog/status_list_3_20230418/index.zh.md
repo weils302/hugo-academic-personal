@@ -85,7 +85,7 @@ categories:
 <p style="font-size: 16px; line-height: 0.6;"><i>(把电源，键盘，鼠标，显示器接上以后后面就都是线。)</i></p>
 
 ![开机画面](IMG_8954.jpg "图片来源: Ⓒ WEILISI")
-<p style="font-size: 16px; line-height: 0.6;"><i>(把电源，键盘，鼠标，显示器接上以后后面就都是线。)</i></p>
+<p style="font-size: 16px; line-height: 0.6;"><i>(成功开机进入系统并连接上房间的WiFi。)</i></p>
 
 <div style="text-align: justify;">
 在树莓派上设置好VNC之后可以直接从工作用的台式机进行操作并传送文件了。通过台式机的VNC Viewer把准备好的服务器代码文件传到树莓派，然后通过系统自带的terminal

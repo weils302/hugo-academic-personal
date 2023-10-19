@@ -1,5 +1,5 @@
 ---
-title: AIアプリケーションに基づく電子在室表作成 (2)
+title: AIアプリケーションに基づいた電子在室表の作成 (2)
 subtitle: 
 
 # Summary for listings and search engines
@@ -38,7 +38,7 @@ categories:
   - Tech Blog
 ---
 *過去の記事：*  
-*[AIアプリケーションに基づく電子在室表作成 (1)](https://weils302.com/techblog/status_list_1_20230407/)*
+*[AIアプリケーションに基づいた電子在室表の作成 (1)](https://weils302.com/techblog/status_list_1_20230407/)*
 
 ---
 
@@ -131,4 +131,4 @@ a cute boy with wavy short black hair, smiling, sitting in front of a PC, deskto
 
 ---
 *今後の記事：*  
-*[AIアプリケーションに基づく電子在室表作成 (3)](https://weils302.com/techblog/status_list_3_20230418/)*
+*[AIアプリケーションに基づいた電子在室表の作成 (3)](https://weils302.com/techblog/status_list_3_20230418/)*

@@ -1,5 +1,5 @@
 ---
-title: AIアプリケーションに基づく電子在室表作成 (1)
+title: AIアプリケーションに基づいた電子在室表の作成 (1)
 subtitle: 
 
 # Summary for listings and search engines
@@ -79,5 +79,5 @@ categories:
 
 ---
 *今後の記事：*  
-*[AIアプリケーションに基づく電子在室表作成 (2)](https://weils302.com/techblog/status_list_2_20230415/)*  
-*[AIアプリケーションに基づく電子在室表作成 (3)](https://weils302.com/techblog/status_list_3_20230418/)*
+*[AIアプリケーションに基づいた電子在室表の作成 (2)](https://weils302.com/techblog/status_list_2_20230415/)*  
+*[AIアプリケーションに基づいた電子在室表の作成 (3)](https://weils302.com/techblog/status_list_3_20230418/)*
