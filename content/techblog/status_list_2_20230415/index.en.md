@@ -1,12 +1,12 @@
 ---
-title: Making an Electronic Office Door Sign Based on AI Application (Part 2)
+title: Making a Digital Office Door Sign Based on AI Application (Part 2)
 subtitle: 
 
 # Summary for listings and search engines
 summary: Image creation by Midjourney
 
 # Link this post with a project
-projects: [Electronic Office Door Sign]
+projects: [digital_office_door_sign]
 
 # Date published
 date: '2023-04-15T00:00:00Z'
@@ -32,13 +32,14 @@ authors:
   - WEILISI
 
 tags:
-  - Electronic Office Door Sign
+  - Digital Office Door Sign
+  - AI
 
 categories:
   - Tech Blog
 ---
 *Previous content:*  
-*[Making an Electronic Office Door Sign Based on AI Application (Part 1)](https://weils302.com/en/techblog/status_list_1_20230407/)*
+*[Making a Digital Office Door Sign Based on AI Application (Part 1)](https://weils302.com/en/techblog/status_list_1_20230407/)*
 
 ---
 
@@ -133,4 +134,4 @@ But currently, AI is not very convenient for creating GIFs, so this can be consi
 
 ---
 *Upcoming content:*  
-*[Making an Electronic Office Door Sign Based on AI Application (Part 3)](https://weils302.com/en/techblog/status_list_3_20230418/)*
+*[Making a Digital Office Door Sign Based on AI Application (Part 3)](https://weils302.com/en/techblog/status_list_3_20230418/)*

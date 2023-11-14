@@ -1,12 +1,12 @@
 ---
-title: Making an Electronic Office Door Sign Based on AI Application (Part 1)
+title: Making a Digital Office Door Sign Based on AI Application (Part 1)
 subtitle: 
 
 # Summary for listings and search engines
 summary: A novel idea came into my mind.
 
 # Link this post with a project
-projects: [Electronic Office Door Sign]
+projects: [digital_office_door_sign]
 
 # Date published
 date: '2023-04-07T00:00:00Z'
@@ -32,7 +32,8 @@ authors:
   - WEILISI
 
 tags:
-  - Electronic Office Door Sign
+  - Digital Office Door Sign
+  - AI
 
 categories:
   - Tech Blog
@@ -92,5 +93,5 @@ The next step is to verify the feasibility of ChatGPT's code, and then to create
 
 ---
 *Upcoming content:*  
-*[Making an Electronic Office Door Sign Based on AI Application (Part 2)](https://weils302.com/en/techblog/status_list_2_20230415/)*  
-*[Making an Electronic Office Door Sign Based on AI Application (Part 3)](https://weils302.com/en/techblog/status_list_3_20230418/)*
+*[Making a Digital Office Door Sign Based on AI Application (Part 2)](https://weils302.com/en/techblog/status_list_2_20230415/)*  
+*[Making a Digital Office Door Sign Based on AI Application (Part 3)](https://weils302.com/en/techblog/status_list_3_20230418/)*

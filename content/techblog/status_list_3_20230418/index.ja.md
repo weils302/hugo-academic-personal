@@ -6,7 +6,7 @@ subtitle:
 summary: 電子在室表のブラケット製作およびコードの最終デプロイ
 
 # Link this post with a project
-projects: [電子在室表制作]
+projects: [digital_office_door_sign]
 
 # Date published
 date: '2023-04-18T00:00:00Z'
@@ -33,6 +33,7 @@ authors:
 
 tags:
   - 電子在室表
+  - AI
 
 categories:
   - Tech Blog

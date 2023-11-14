@@ -26,9 +26,9 @@ main:
     parent: post
     url: 'illustrations/'
     weight: 22
- # - name: Projects
-  #  url: '#projects'
-  #  weight: 30
+  - name: プロジェクト
+    url: '#projects'
+    weight: 30
   #- name: Talks
   #  url: '#talks'
   #  weight: 40

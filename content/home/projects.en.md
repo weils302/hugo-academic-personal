@@ -11,7 +11,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: 项目
+title: Projects
 subtitle: ''
 
 content:
@@ -30,8 +30,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: 电子在室表
-      tag: 电子在室表
+    - name: Digital Office Door Sign
+      tag: Digital Office Door Sign
     
 
 design:
